@@ -7,5 +7,5 @@
 
 
 - 😄 Services :
-Discord : amineyz
+Discord : amineyz // 
 Email : contactamineyz@gmail.com
